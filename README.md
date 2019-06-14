@@ -1,4 +1,4 @@
-# Heavybit Conference Guide
+# Heavybit Conference Speaker Guide
 Heavybit helps its member companies take developer products to market. Members like Stripe, PagerDuty and RainforestQA look to our advisors, alumni and staff to help shape their businesses. As part of this program, we host a number of half-day conferences. Your audience includes:
 * ONSITE: 150-200 topic-based practitioners and early founders at Series Seed to Series B developer, SaaS, enterprise and infrastructure companies
 * ONLINE: 50-60K video viewers specifically interested in learning about topics relevant to Series Seed to Series B developer and enterprise company go-to-market
